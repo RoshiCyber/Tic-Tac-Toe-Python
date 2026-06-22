@@ -4,7 +4,7 @@ board = ["-","-","-",
 
 currentPlayer = "X"
 winner = None
-gameRunning = False
+gameRunning = True
 
 # printing the game board
 def printBoard(board):
