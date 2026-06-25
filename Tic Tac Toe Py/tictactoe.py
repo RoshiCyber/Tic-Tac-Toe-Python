@@ -14,7 +14,7 @@ def printBoard(board):
     print ("---------")
     print(board[6] + " " + board[7] + " " + board[8])
     print ("---------")
-printBoard(board)
+printBoard(boards)
 
 
 # take the player input
